@@ -1,2 +1,2 @@
 # 3dkreek
-3d printer stuff
+just a uni student trying to do stuff
